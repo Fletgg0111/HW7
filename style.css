@@ -1,13 +1,9 @@
-a[href^="https"] {
-color: red;
-}
-
 a[href="https"] {
 color: red;
 }
-.ul {
+ul {
 font-size: 24px;
 }
-.p {
+p {
     font-size: 24px;
 }
